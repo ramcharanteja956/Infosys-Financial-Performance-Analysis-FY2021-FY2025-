@@ -4,13 +4,13 @@ A comprehensive, end-to-end financial analysis of Infosys Limited, one of India'
 
 ***Project Structure***
 
--infosys-financial Performance Analysis (FY2020-FY2025)/
--│
--├── "Infosys Financial Statements.xlsx"
--Excel financial model
--├── Infosys Financial Dashboard.pbix
--Power BI interactive dashboard
--└── README.md
+infosys-financial Performance Analysis (FY2020-FY2025)/
+│
+├── "Infosys Financial Statements.xlsx"
+Excel financial model
+├── Infosys Financial Dashboard.pbix
+Power BI interactive dashboard
+└── README.md
 
 ***What's Inside***
 
